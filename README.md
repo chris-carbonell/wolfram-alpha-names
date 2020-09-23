@@ -20,4 +20,4 @@
 
 The following screenshot is an example of the email summary for [Chris](https://www.wolframalpha.com/input/?i=%23613+boys+name):
 
-![Example Email](/example_email.png?raw=true "Example Email")
+![Example Email](email_example.png?raw=true "Example Email")
