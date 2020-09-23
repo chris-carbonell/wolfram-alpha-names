@@ -1,0 +1,9 @@
+version: "3.6"
+
+services:
+  py_wbn:
+    image: py_wbn
+    container_name: py_wbn
+    volumes:
+      - "./input:/python/input"
+      - "./output:/python/output"
