@@ -1,1 +1,7 @@
+# testing
 /build/Dockerfile_jupyter
+/build/python/testing_wolfram.ipynb
+docker-compose-jupyter.yml
+
+# secrets
+/build/python/secrets.py
